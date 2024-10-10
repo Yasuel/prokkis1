@@ -1,6 +1,0 @@
-Lähteet:
-Canvas-matsku
-StackOverflow
-chatGPT
-https://www.tutorialspoint.com/how-to-stop-refreshing-the-page-on-submit-in-javascript
-w3
