@@ -1,6 +1,6 @@
 Lähteet:
 Canvas-matsku
-StackOverflow
+stackoverflow.com
 chatGPT
 https://www.tutorialspoint.com/how-to-stop-refreshing-the-page-on-submit-in-javascript
-w3
+w3schools.com
