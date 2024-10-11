@@ -7,11 +7,8 @@ Access my site at [https://pichitlist.netlify.app/]
 
 - [About The App](#about-the-app)
 - [Technologies](#technologies)
-- [Setup](#setup)
-- [Approach](#approach)
 - [Status](#status)
 - [Credits](#credits)
-- [License](#license)
 
 ## About The App
 To do list is an app that functions as an extremely basic to do list.
